@@ -1,9 +1,0 @@
----
-title: "Zenon Hrabowsky's Data Science Portfolio"
----
-
-This website is generated using Quarto.
-
-Check back periodically to see new projects as they are posted.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
